@@ -1,6 +1,6 @@
 def main ():
-    x= int(input("What is y ?"))
-    print("y squared is", square(y))
+    x= int(input("What is p ?"))
+    print("p squared is", square(p))
 
 
 def square(n):
